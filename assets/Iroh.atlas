@@ -1,0 +1,92 @@
+Iroh.png
+size:346,519
+filter:Linear,Linear
+pma:true
+Beard
+bounds:247,122,238,96
+rotate:90
+Belly Cover
+bounds:240,33,87,94
+rotate:90
+Cup
+bounds:2,193,26,32
+offsets:1,0,27,32
+rotate:90
+Ears
+bounds:38,280,194,28
+Face
+bounds:38,129,168,149
+Hair
+bounds:2,310,207,243
+rotate:90
+Lefgt brow
+bounds:275,20,45,11
+offsets:0,0,46,11
+Right brow
+bounds:275,20,45,11
+offsets:0,0,46,11
+Left arm
+bounds:38,36,81,91
+Left lower
+bounds:208,121,48,30
+rotate:90
+Left upper
+bounds:38,2,62,29
+Leg left
+bounds:2,265,34,43
+Leg right
+bounds:208,171,35,43
+Middle
+bounds:247,362,97,36
+offsets:1,0,99,36
+Mouth
+bounds:336,35,85,8
+rotate:90
+Nose
+bounds:208,262,23,16
+Right Upper
+bounds:102,2,62,29
+Right arm
+bounds:121,36,81,91
+Right lower
+bounds:2,142,49,30
+rotate:90
+Skirt
+bounds:247,400,117,97
+rotate:90
+slice1
+bounds:2,7,113,34
+rotate:90
+slice10
+bounds:260,18,13,13
+offsets:0,0,13,14
+slice11
+bounds:166,2,29,29
+slice12
+bounds:197,2,29,29
+slice13
+bounds:234,260,48,11
+rotate:90
+slice2
+bounds:208,238,20,36
+offsets:1,0,21,36
+rotate:90
+slice3
+bounds:208,216,20,36
+rotate:90
+slice4
+bounds:2,125,23,15
+slice5
+bounds:2,243,33,20
+slice6
+bounds:2,221,33,20
+offsets:1,0,34,20
+slice7
+bounds:228,2,29,14
+rotate:90
+slice8
+bounds:244,2,29,14
+rotate:90
+slice9
+bounds:260,3,13,13
+offsets:0,0,13,14
